@@ -1,0 +1,26 @@
+[02-Nov-2026 08:09:59 UTC] TOP STUDIO admin login error: Incorrect username or password.
+[10-Nov-2026 12:10:41 UTC] TOP STUDIO admin live chat API error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'topspvtw_topstudio_db.live_chat_conversations' doesn't exist
+[10-Nov-2026 12:10:46 UTC] TOP STUDIO admin live chat API error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'topspvtw_topstudio_db.live_chat_conversations' doesn't exist
+[10-Nov-2026 12:10:51 UTC] TOP STUDIO admin live chat API error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'topspvtw_topstudio_db.live_chat_conversations' doesn't exist
+[18-Nov-2026 05:02:20 UTC] TOP STUDIO Search Console API error: Google OAuth token error: Token has been expired or revoked.
+[18-Nov-2026 05:02:20 UTC] TOP STUDIO GA4 Data API error: Google OAuth token error: Token has been expired or revoked.
+[24-Nov-2026 05:35:40 UTC] TOP STUDIO Search Console API error: Google OAuth token error: Token has been expired or revoked.
+[24-Nov-2026 05:35:40 UTC] TOP STUDIO GA4 Data API error: Google OAuth token error: Token has been expired or revoked.
+[24-Nov-2026 05:35:58 UTC] TOP STUDIO Search Console API error: Google OAuth token error: Token has been expired or revoked.
+[24-Nov-2026 05:35:58 UTC] TOP STUDIO GA4 Data API error: Google OAuth token error: Token has been expired or revoked.
+[24-Nov-2026 05:49:54 UTC] TOP STUDIO Search Console API error: Google OAuth token error: Token has been expired or revoked.
+[24-Nov-2026 05:49:54 UTC] TOP STUDIO GA4 Data API error: Google OAuth token error: Token has been expired or revoked.
+[24-Nov-2026 06:42:14 UTC] TOP STUDIO Search Console API error: Google OAuth token error: Token has been expired or revoked.
+[24-Nov-2026 06:42:15 UTC] TOP STUDIO GA4 Data API error: Google OAuth token error: Token has been expired or revoked.
+[24-Nov-2026 14:11:16 UTC] TOP STUDIO performance action error: PageSpeed test failed (429): Google API quota/rate limit reached. Wait before testing again or configure a PageSpeed API key in config.php.
+[24-Nov-2026 14:28:59 UTC] TOP STUDIO performance schema error: Call to undefined function ts_perf_schema_exists()
+[24-Nov-2026 14:38:34 UTC] TOP STUDIO performance schema error: Call to undefined function ts_perf_schema_exists()
+[24-Nov-2026 14:38:55 UTC] TOP STUDIO performance schema error: Call to undefined function ts_perf_schema_exists()
+[25-Nov-2026 04:50:13 UTC] TOP STUDIO performance schema error: Call to undefined function ts_perf_schema_exists()
+[25-Nov-2026 05:07:50 UTC] TOP STUDIO performance schema error: Call to undefined function ts_perf_schema_exists()
+[25-Nov-2026 05:10:06 UTC] TOP STUDIO performance action error: PageSpeed test failed (429): Google PageSpeed quota/rate limit reached (HTTP 429). This monitor will pause new tests for 30 minutes to protect the quota. The Admin session is released while Google responds, so other Admin pages should remain usable.
+[25-Nov-2026 05:10:22 UTC] TOP STUDIO performance action error: A previous Desktop PageSpeed request is cooling down. Please wait about 30 minute(s) before trying again.
+[25-Nov-2026 05:10:25 UTC] TOP STUDIO performance action error: PageSpeed test failed (429): Google PageSpeed quota/rate limit reached (HTTP 429). This monitor will pause new tests for 30 minutes to protect the quota. The Admin session is released while Google responds, so other Admin pages should remain usable.
+[25-Nov-2026 05:10:39 UTC] TOP STUDIO performance action error: A previous Desktop PageSpeed request is cooling down. Please wait about 30 minute(s) before trying again.
+[25-Nov-2026 05:10:56 UTC] TOP STUDIO performance action error: A previous Desktop PageSpeed request is cooling down. Please wait about 30 minute(s) before trying again.
+[25-Nov-2026 05:12:28 UTC] TOP STUDIO performance action error: A previous Mobile PageSpeed request is cooling down. Please wait about 28 minute(s) before trying again.
